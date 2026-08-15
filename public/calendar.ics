@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Работа — Вкусно и точка
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-UID:2c341d9233e85056e0b35210@my-work-calendar
+UID:dt-20260810-1600@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260810T160000
 DTEND;TZID=Europe/Moscow:20260811T010000
@@ -14,7 +14,7 @@ SUMMARY:DT
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:f3b904c27ec6d3d96c622bd0@my-work-calendar
+UID:dt-20260811-1600@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260811T160000
 DTEND;TZID=Europe/Moscow:20260811T170000
@@ -22,7 +22,7 @@ SUMMARY:DT
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:4956341ce2b5ea0bdd0394b7@my-work-calendar
+UID:tr-20260811-1700@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260811T170000
 DTEND;TZID=Europe/Moscow:20260811T191500
@@ -30,7 +30,7 @@ SUMMARY:TR
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:cab325d89902c630a6162dc2@my-work-calendar
+UID:dt-20260811-1915@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260811T191500
 DTEND;TZID=Europe/Moscow:20260812T010000
@@ -38,7 +38,7 @@ SUMMARY:DT
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:d343239b00afb622186de616@my-work-calendar
+UID:dtn-20260813-2200@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260813T220000
 DTEND;TZID=Europe/Moscow:20260814T070000
@@ -46,7 +46,7 @@ SUMMARY:DTN
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:3a9c9c91e6404b4a29712ce9@my-work-calendar
+UID:dtn-20260814-2200@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260814T220000
 DTEND;TZID=Europe/Moscow:20260815T070000
@@ -54,7 +54,7 @@ SUMMARY:DTN
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:ba645b4096c8d8b2bd75262e@my-work-calendar
+UID:k-20260816-1600@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260816T160000
 DTEND;TZID=Europe/Moscow:20260817T010000
@@ -62,7 +62,7 @@ SUMMARY:K
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:373dd4a36164c07ef0f2051a@my-work-calendar
+UID:dt-20260818-1900@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260818T190000
 DTEND;TZID=Europe/Moscow:20260819T000000
@@ -70,7 +70,7 @@ SUMMARY:DT
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:26844ff5bda2308f10b41aaf@my-work-calendar
+UID:tr-20260820-1500@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260820T150000
 DTEND;TZID=Europe/Moscow:20260820T180000
@@ -78,7 +78,7 @@ SUMMARY:TR
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:e4c3885a87d80e7a6c92879e@my-work-calendar
+UID:k-20260820-1800@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260820T180000
 DTEND;TZID=Europe/Moscow:20260821T000000
@@ -86,7 +86,7 @@ SUMMARY:K
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:b9619d254cae7b74ceed003f@my-work-calendar
+UID:k-20260821-1500@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260821T150000
 DTEND;TZID=Europe/Moscow:20260821T160000
@@ -94,7 +94,7 @@ SUMMARY:K
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:c312057086d11ea82b517c38@my-work-calendar
+UID:tr-20260821-1600@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260821T160000
 DTEND;TZID=Europe/Moscow:20260821T200000
@@ -102,7 +102,7 @@ SUMMARY:TR
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:f4c2471cda0eb60b350cf1e9@my-work-calendar
+UID:k-20260821-2000@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260821T200000
 DTEND;TZID=Europe/Moscow:20260822T000000
@@ -110,7 +110,7 @@ SUMMARY:K
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:4e62c8b08acb214006e982db@my-work-calendar
+UID:dt-20260822-1500@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260822T150000
 DTEND;TZID=Europe/Moscow:20260822T160000
@@ -118,7 +118,7 @@ SUMMARY:DT
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:8289d4a5452fb88ec2d7598d@my-work-calendar
+UID:tr-20260822-1600@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260822T160000
 DTEND;TZID=Europe/Moscow:20260822T194500
@@ -126,7 +126,7 @@ SUMMARY:TR
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:f37020b1be2f9911ecf87b8a@my-work-calendar
+UID:dt-20260822-1945@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260822T194500
 DTEND;TZID=Europe/Moscow:20260823T000000
@@ -134,7 +134,7 @@ SUMMARY:DT
 LOCATION:Вкусно и точка\, г. Тверь\, Московское шоссе\, 16А
 END:VEVENT
 BEGIN:VEVENT
-UID:bd0cf4132693978c4747b33b@my-work-calendar
+UID:dt-20260823-1500@my-work-calendar
 DTSTAMP:20260815T202931Z
 DTSTART;TZID=Europe/Moscow:20260823T150000
 DTEND;TZID=Europe/Moscow:20260824T000000
