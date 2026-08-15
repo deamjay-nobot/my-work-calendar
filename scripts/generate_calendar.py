@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import hashlib
 import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -21,9 +20,11 @@ def event_times(shift):
     return start, end
 
 def stable_uid(shift, location):
-    raw = "|".join([shift["type"], shift["date"], shift["start"], shift["end"], location, shift.get("description", "")])
-    digest = hashlib.sha256(raw.encode("utf-8")).hexdigest()[:24]
-    return f"{digest}@my-work-calendar"
+    # Keep the UID format used by the original calendar so existing Apple
+    # Calendar subscriptions update events instead of creating duplicates.
+    date = shift["date"].replace("-", "")
+    start = shift["start"].replace(":", "")
+    return f"{shift['type'].lower()}-{date}-{start}@my-work-calendar"
 
 def build_calendar(data):
     calendar = data["calendar"]
