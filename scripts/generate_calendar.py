@@ -6,7 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SCHEDULE_PATH = ROOT / "schedule.json"
 OUTPUTS = [ROOT / "calendar.ics", ROOT / "public" / "calendar.ics"]
-ALLOWED_TYPES = {"DT", "K", "TR", "TS", "LL", "GEL", "DTN"}
+ALLOWED_TYPES = {"DT", "K", "TR", "TS", "LL", "GEL", "DTN", "C"}
 
 def ics_escape(value: str) -> str:
     return (value.replace("\\", "\\\\").replace(";", "\\;")
